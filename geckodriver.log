@@ -1,0 +1,946 @@
+1534426918481	geckodriver	INFO	geckodriver 0.21.0
+1534426918512	geckodriver	INFO	Listening on 127.0.0.1:51360
+1534426921719	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.rThbt8PZ7Lez"
+1534426947003	Marionette	INFO	Listening on port 51372
+1534426948991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 5472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 54[GPU 15
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.f1MYvog2k8yB"
+1534427048736	Marionette	INFO	Listening on port 51604
+1534427049215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 59
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+port 51764
+1534427111861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTrans1534427237266	Marionette	INFO	Listening on port 52019
+1534427238031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534427290294	geckodriver	INFO	geckodriver 0.21.0
+1534427290326	geckodriver	INFO	Listening on 127.0.0.1:52157
+1534427293392	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.2iTJZ1Csam8Y"
+1534427302156	Marionette	INFO	Listening on port 52170
+1534427302563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://uims.cuchd.in
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 7700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://uims.cuchd.in
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Child 3688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 11368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Child 11776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/builbdu/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346i
+ld/bu[iChild 11776, Cld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registe[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+1534427530021	Marionette	INFO	Listening on port 52675
+[Child 1908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 190[Parent 10400, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1534427536107	geckodriver	INFO	geckodriver 0.21.0
+1534427536138	geckodriver	INFO	Listening on 127.0.0.1:52748
+1534427538855	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.NLwmmJGZmx3x"
+1534427546750	Marionette	INFO	Listening on port 52760
+1534427548901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 3392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Child 11224, Chrohmild 33e9_ChildThread] WARNING: 1534427651189	Marionette	INFO	Listening on port 52967
+1534427652023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 6632,JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 3044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3044, Chrome_Child[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534427947117	geckodriver	INFO	geckodriver 0.21.0
+1534427947137	geckodriver	INFO	Listening on 127.0.0.1:53494
+1534427950239	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.TdXCHXvNFi07"
+1534427956091	Marionette	INFO	Listening on port 53507
+1534427957370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://uims.cuchd.in
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[[Child 1100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1100, Ch[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ill be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Parent 3940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 11900, Chrome_ChildThread] WARNING: pipe errJavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 1828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Parent 8012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534428289036	geckodriver	INFO	geckodriver 0.21.0
+1534428289057	geckodriver	INFO	Listening on 127.0.0.1:54192
+1534428292090	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.jPXrWW3gICGV"
+1534428297963	Marionette	INFO	Listening on port 54204
+1534428299361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.codeship.com/get-selenium-to-wait-for-page-load/, line 129: TypeError: $ is not a function
+JavaScript error: https://blog.codeship.com/get-selenium-to-wait-for-page-load/, line 129: TypeError: addthis.bar is undefined
+JavaScript error: https://1npo9l3lml0zvr6w62acc3t1-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_c2d88bb7b6396f3a107eda2366df8364.js, line 3: TypeError: $ is not a function
+JavaScript error: https://blog.codeship.com/get-selenium-to-wait-for-page-load/, line 205: ReferenceError: hljs is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 3360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3360, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:55196
+1534428625546	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.zqTyp4chDI7F"
+1534428635460	Marionette	INFO	Listening on port 55209
+1534428635661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[uild/src/ipc/chromium/sCrc/chrome/common/ipc_channel_win.cc, line 346
+hild 9408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9408[GPU 5216,
+###!!! [Child][MessageChannel:1534428706887	Marionette	INFO	Listening on port 55376
+1534428708124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 5500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 11156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 111[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+55589
+1534428801128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Parent 11420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448, Chrome_ChildThread][GPU 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: ca1534428874365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9776, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.m0aJxnJOhwGV"
+1534428949067	Marionette	INFO	Listening on port 55922
+1534428949927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.obeythetestinggoat.com/how-to-get-selenium-to-wait-for-page-load-after-a-click.html, line 335: TypeError: $(...).foundation is not a function
+JavaScript error: http://www.obeythetestinggoat.com/how-to-get-selenium-to-wait-for-page-load-after-a-click.html, line 339: TypeError: $(...).orbit is not a function
+[[Child 5836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5836, Chrome_ChildThread] WARNING: pipe erro[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\AppData\\Local\\Temp\\rust_mozprofile.Usk5uE3hLzzy"
+1534429397535	Marionette	INFO	Listening on port 57127
+1534429397726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10284,[Parent 7064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/utils/event-loop.js, line 118: DebuggeeWouldRun: debuggee `https://www.google-analytics.com/analytics.js:8' would run
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+[Child 6112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 5248, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 5248, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcZSAjdTmrjRkS9AS3be8A41pTb9i5tqUtwCRqog1X0yo1m2pFv4083ScPhP39UhZKIU5Xk57ymwX9MOQgH7IHMwMshGOA5VKQeuCh0_9QRyV38lawg2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js line 4 > eval, line 2: TypeError: $(...).vTicker is not a function
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8612, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 8612, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x130011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+appingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcZSAjdTmrjRkS9AS3be8A41pTb9i5tqUtwCRqog1X0yo1m2pFv4083ScPhP39UhZKIU5Xk57ymwX9MOQgH7IHMwMshGOA5VKQeuCh0_9QRyV38lawg2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js line 4 > eval, line 2: TypeError: $(...).vTicker is not a function
+[Child 10876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10876, Chrome_Chi[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.hZGaTDd3ea6Q"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1534430157100	Marionette	INFO	Listening on port 58505
+1534430157540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcZSAjdTmrjRkS9AS3be8A41pTb9i5tqUtwCRqog1X0yo1m2pFv4083ScPhP39UhZKIU5Xk57ymwX9MOQgH7IHMwMshGOA5VKQeuCh0_9QRyV38lawg2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js line 4 > eval, line 2: TypeError: $(...).vTicker is not a function
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808, Chrom[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.W9zcqJVLDSPq"
+1534430250639	Marionette	INFO	Listening on port 58789
+1534430251467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcZSAjdTmrjRkS9AS3be8A41pTb9i5tqUtwCRqog1X0yo1m2pFv4083ScPhP39UhZKIU5Xk57ymwX9MOQgH7IHMwMshGOA5VKQeuCh0_9QRyV38lawg2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js line 4 > eval, line 2: TypeError: $(...).vTicker is not a function
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+[Parent 9148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5704, Chrome_Ch[Parent 9148, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 9148, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9628, Chrome_ChildThread] WA[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534432685178	geckodriver	INFO	geckodriver 0.21.0
+1534432685210	geckodriver	INFO	Listening on 127.0.0.1:62994
+1534432688676	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.s945QLnup0z9"
+1534432699194	Marionette	INFO	Listening on port 63002
+1534432699751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[[1534432743907	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: errorCC
+hild 4972, C1534432746123	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.82n4tlswslGp"
+1534432751826	Marionette	INFO	Listening on port 63079
+1534432752880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 9732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9[Parent 7576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534440160819	geckodriver	INFO	geckodriver 0.21.0
+1534440160844	geckodriver	INFO	Listening on 127.0.0.1:63890
+1534440164109	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.Sty8zEy8LdrQ"
+1534440173389	Marionette	INFO	Listening on port 63903
+1534440173698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcXmI-pjOeF3WVumKIHuZLRGsqT870c6ovDwZZe1xtLs0XvIWKwxVLCwBBXbU_uDiJtVKmDXBG9f4AnNhsvWcVR4RLMHGpbrndPo0fl6L1VefBPeqRA2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js line 4 > eval, line 2: TypeError: $(...).vTicker is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 4: Error: Syntax error, unrecognized expression: ul[class=*"dropdown-menu"]
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 5500, Chrome_ChildThread] WARN
+ING: pipe error: 109: [file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 5028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534441919728	geckodriver	INFO	geckodriver 0.21.0
+1534441919760	geckodriver	INFO	Listening on 127.0.0.1:64646
+1534441922806	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.X09ixekwfI3P"
+1534441928808	Marionette	INFO	Listening on port 64654
+1534441929588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 10728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 9776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534442040065	geckodriver	INFO	geckodriver 0.21.0
+1534442040096	geckodriver	INFO	Listening on 127.0.0.1:64714
+1534442043158	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.rrjs4k2lw5gl"
+1534442049828	Marionette	INFO	Listening on port 64722
+1534442049961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 9868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9[Parent 9968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[GPU 8316, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g on 127.0.0.1:64922
+1534442316907	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.zUJPAUvinghF"
+1534442324779	Marionette	INFO	Listening on port 64931
+1534442324975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+[Child 6252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 62JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534442595711	geckodriver	INFO	geckodriver 0.21.0
+1534442595742	geckodriver	INFO	Listening on 127.0.0.1:65076
+1534442598758	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.0ruZiEQpnFj7"
+1534442608824	Marionette	INFO	Listening on port 65086
+[Child 3176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3176, C1534442608857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 127.0.0.1:65151
+1534442669016	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.9PahEiowCOfx"
+1534442676449	Marionette	INFO	Listening on port 65159
+1534442676801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chro[GPU 2036,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.M3SoAkTZXn6W"
+1534442787042	Marionette	INFO	Listening on port 65223
+1534442788381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+FO	Listening on port 65313
+1534442846409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 13276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13276, Chrome_ChildThread] WARNIN
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534442926175	geckodriver	INFO	geckodriver 0.21.0
+1534442926191	geckodriver	INFO	Listening on 127.0.0.1:65362
+1534442929456	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.V05vgJC1sWGg"
+1534442939456	Marionette	INFO	Listening on port 65370
+[Child 4988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ata\\Local\\Temp\\rust_mozprofile.Co7GkITkbofv"
+1534442948428	Marionette	INFO	Listening on port 65393
+1534442949478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13052, Ch[rome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13052, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534443041628	geckodriver	INFO	geckodriver 0.21.0
+1534443041660	geckodriver	INFO	Listening on 127.0.0.1:65493
+1534443044690	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.JqbsEJWuIpjO"
+1534443051334	Marionette	INFO	Listening on port 65503
+1534443051776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://s2.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk=, line 825: TypeError: msg is null
+JavaScript error: https://s2.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk=, line 825: TypeError: msg is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12188, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/ipc_channel_win.cc, line 346
+[Child 12188, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.5W0bv9fetLHM"
+1534443211071	Marionette	INFO	Listening on port 49248
+1534443211958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 3060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 49
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534443619165	geckodriver	INFO	geckodriver 0.21.0
+1534443619180	geckodriver	INFO	Listening on 127.0.0.1:49637
+1534443622211	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.KPVSaONdcvyi"
+1534443634291	Marionette	INFO	Listening on port 49645
+[Child 12936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1534443634460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 10[Child 12796, Chrome_ChildThread] WAR9N:ING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line file z:/build/build/src/ipc/chromium/src/chr o3m46
+[Child 12796, Chrome_Chile/common/ipc_channel_win.cc, line 346
+[Child 12928, C[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 8028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 802*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10848, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534443793414	geckodriver	INFO	geckodriver 0.21.0
+1534443793445	geckodriver	INFO	Listening on 127.0.0.1:49887
+1534443796482	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.7pBcriu2y2cj"
+1534443803364	Marionette	INFO	Listening on port 49896
+1534443803972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js, line 4: ReferenceError: jQuery is not defined
+JavaScript warning: https://a.pub.network/core/prebid-analytics-1.19.0.js, line 0: Successfully compiled asm.js code (total compilation time 59ms; stored in cache)
+JavaScript warning: https://a.pub.network/core/prebid-analytics-1.19.0.js, line 0: Successfully compiled asm.js code (total compilation time 27ms; stored in cache)
+JavaScript error: https://delivery.h.switchadhub.com/set?name=zsync&value=delivery.zidtech.com, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60119778/20170317181455771/Hangout%20728x90/banner.js, line 111: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60119778/20170317181455771/Hangout%20728x90/banner.js, line 111: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Child 3752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3752, Ch
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 9644, Chr[Child 7844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-40602308-3, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-40602308-3, line 69: unreachable code after return statement
+JavaScript error: https://s3.buysellads.com/ac/pro.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://static.tutsplus.com/assets/body-58206a7516db6a15ef0cbd2e2ddcd1b6.js, line 3: TypeError: e is undefined
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 7300, Chrome_[
+CC[hh[CiiChild 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Child 796, lhlChrome_Ch3dThred 7588ildThre46
+ad] WARNING: pipe error: 109: file z:/build/bad] uild/src/ipc/chromium/s, Chrome_Chilrc/cild 8544, Chrome_ChilddThread] WARNINGhrom: pipe error: WARNINGe/comm109:Thread] WARNING: pipe erro file z: pion/ipc:/buildpe error: 109: file z:/build/build/srr/c/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346_channel_win.cc,:b
+  ul1[Child 7300, Chrome_ChildThread] WARNI09: filNG: ine ild/src/ipc/chromium/src/chrompipe error: 109: file z:/build/buie/common/e z:/ld/ipc_chasrc/ipc/chromiu346
+bnm/src/chrome/common/ipc_channel_win.cc, line 346
+uild/build/src/ipc/chromium/snel_win.cc, line 346
+rc/chrome/common/ipc_channel_win.cc, line [346
+Child 796, Chrome_ChildThr[ead] WARNChild 8544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7588, ChroIme_ChildTNhread] GWARNING: pipe e:rror: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 112
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534446592494	geckodriver	INFO	geckodriver 0.21.0
+1534446592518	geckodriver	INFO	Listening on 127.0.0.1:51353
+1534446595727	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.scVrIug2Otng"
+1534446606308	Marionette	INFO	Listening on port 51362
+1534446606814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Parent 5468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10400, [Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8728, Chrome_ChildThread]*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534447060594	geckodriver	INFO	geckodriver 0.21.0
+1534447060632	geckodriver	INFO	Listening on 127.0.0.1:51647
+1534447063527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.mJyvUxIfqfzr"
+1534447071740	Marionette	INFO	Listening on port 51655
+1534447072254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcXmI-pjOeF3WVumKIHuZLRGsqT870c6ovDwZZe1xtLs0XvIWKwxVLCwBBXbU_uDiJtVKmDXBG9f4AnNhsvWcVR4RLMHGpbrndPo0fl6L1VefBPeqRA2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js line 4 > eval, line 2: TypeError: $(...).vTicker is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Parent 12700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 12828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,[ Clhiine 346l
+d 10652, Chrome_ChildThread] WARNING: pipe erroJavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8012, Chr[Child 6344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6344, Chrome_ChildThread] WARNING: pipe error: 10*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534447225616	geckodriver	INFO	geckodriver 0.21.0
+1534447225632	geckodriver	INFO	Listening on 127.0.0.1:51775
+1534447228628	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.SwiBO28LfFSz"
+1534447236137	Marionette	INFO	Listening on port 51783
+1534447236832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 828, Chrome[Parent 13224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534447271074	geckodriver	INFO	geckodriver 0.21.0
+1534447271090	geckodriver	INFO	Listening on 127.0.0.1:51853
+1534447274126	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aman\\AppData\\Local\\Temp\\rust_mozprofile.KCWUOPHfz7uC"
+1534447278868	Marionette	INFO	Listening on port 51861
+1534447279092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcXmI-pjOeF3WVumKIHuZLRGsqT870c6ovDwZZe1xtLs0XvIWKwxVLCwBBXbU_uDiJtVKmDXBG9f4AnNhsvWcVR4RLMHGpbrndPo0fl6L1VefBPeqRA2&t=ffffffffdb8968b2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+JavaScript warning: https://uims.cuchd.in/UIMS/Scripts/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108822757-1, line 69: unreachable code after return statement
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
